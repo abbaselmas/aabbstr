@@ -1,5 +1,6 @@
 ---
 title: Lecturing
+cms_exclude: true
 
 # View.
 #   1 = List
