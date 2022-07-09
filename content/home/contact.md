@@ -25,32 +25,31 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: abbaselmas@gmail.com
+  phone: +905432558823
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Çukurova University Computer Engineering Department Building Room 111
+    city: Adana
+    region: 
+    postcode: '01180'
+    country: Turkey
+    country_code: TR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '37.06103'
+    longitude: '35.35068'
+  directions:
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Weekdays 08:30 to 09:30'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/aabbstr'
+    - icon: telegram
+      icon_pack: fab
+      name: Telegram
+      link: 'https://telegram.me/@abbaselmas'
 
 design:
   columns: '2'
