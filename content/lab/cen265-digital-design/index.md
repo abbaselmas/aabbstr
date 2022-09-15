@@ -36,10 +36,10 @@ projects: []
 
 ### Resources
 
-[Computer Organization and Design Fundamentals by David Tarnoff](https://faculty.etsu.edu/tarnoff/138292/)
-[Logic Functions and Gates](/lab/cen265-digital-design/Ch4_v02.pdf)
-[Boolean Algebra](/lab/cen265-digital-design/Ch5_v02.pdf)
-[Standard Boolean Expression Formats](/lab/cen265-digital-design/Ch6_v02.pdf)
-[Karnaugh Maps](/lab/cen265-digital-design/Ch7_v02.pdf)
-[Combinational Logic Applications](/lab/cen265-digital-design/Ch8_v02.pdf)
+[Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/) by David Tarnoff  
+[Logic Functions and Gates](/lab/cen265-digital-design/Ch4_v02.pdf)  
+[Boolean Algebra](/lab/cen265-digital-design/Ch5_v02.pdf)  
+[Standard Boolean Expression Formats](/lab/cen265-digital-design/Ch6_v02.pdf)  
+[Karnaugh Maps](/lab/cen265-digital-design/Ch7_v02.pdf)  
+[Combinational Logic Applications](/lab/cen265-digital-design/Ch8_v02.pdf)  
 
