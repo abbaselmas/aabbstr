@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: abbaselmas@gmail.com
-  phone: 05432558823
+  phone: +905432558823
   address:
     street: Çukurova University Computer Engineering Department Building Room 111
     city: Adana
