@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-09-15"
+date: "2022-09-25"
 featured: true
 draft: false
 
@@ -32,7 +32,59 @@ projects: []
 
 ## Announcements
 
-### Exam Results
+- On Monday, September 26, at 13.30 and 14.00, there will be a presentation of how the Digital Design Lab course will be held.
+
+- Next Lab sessions will be held by showing the assignments you have completed before.
+
+- You can come at any time from 9 am to 4 pm on Mondays, show your homework and get your "plus".
+
+### Equipments List
+
+| Malzeme                     | Ürün Kodu | Adet |
+|-----------------------------|-----------|------|
+| Nand Gate                   | 74LS00    | 4    |
+| Nor Gate                    | 74LS02    | 2    |
+| Not Gate                    | 74LS04    | 2    |
+| And Gate                    | 74LS08    | 2    |
+| Schmitt Trigger             | 74LS14    | 1    |
+| Or Gate                     | 74LS32    | 2    |
+| 7 Segment Display Driver    | 74LS47    | 1    |
+| JK Flip Flop                | 74LS76    | 3    |
+| XOR Gate                    | 74LS86    | 1    |
+| Shift Register              | 74LS164   | 2    |
+| Up Down Counter             | 74LS193   | 1    |
+| Potansiyometre 100 KΩ Mono  |           | 2    |
+| 5mm Led                     |           | 10   |
+| Bread Board                 |           | 1    |
+| 5V 1,6A Switch Mode Adaptör |           | 1    |
+| Kablo                       |           |      |
+| 330 Direnç                  |           | 10   |
+| 100 mF kondansatör          |           | 1    |
+| timsah kablo                |           | 2    |
+
+
+### Lab Assignments
+
+[Lab 1](/lab/cen265-digital-design/lab1.pdf) - [Presentation](/lab/cen265-digital-design/lab1.pptx)  
+[Lab 2](/lab/cen265-digital-design/lab2.pdf)  
+[Lab 3](/lab/cen265-digital-design/lab3.pdf)  
+[Lab 4](/lab/cen265-digital-design/lab4.pdf)  
+[Lab 5](/lab/cen265-digital-design/lab5.pdf)  
+[Lab 6](/lab/cen265-digital-design/lab6.pdf)  
+[Lab 7](/lab/cen265-digital-design/lab7.pdf)  
+[Lab 8](/lab/cen265-digital-design/lab8.pdf)  
+[Lab 9](/lab/cen265-digital-design/lab9.pdf) - [Clock](/lab/cen265-digital-design/Clock.pdf)  
+[Lab 10](/lab/cen265-digital-design/lab10.pdf)  
+
+
+### Simulation Program
+
+A digital logic designer and circuit simulator.  
+https://github.com/hneemann/Digital
+
+[Download](https://github.com/hneemann/Digital/releases)
+
+[English Documentation](https://github.com/hneemann/Digital/releases/download/v0.29/Doc_English.pdf)
 
 ### Resources
 
