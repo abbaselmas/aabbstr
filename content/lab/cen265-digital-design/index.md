@@ -32,7 +32,7 @@ projects: []
 
 ## Announcements
 
-- On Monday, September 26, at 13.30 and 14.00, there will be a presentation of how the Digital Design Lab course will be held.
+- On Monday, September 26, at 11.00 and 13.00, there will be a presentation of how the Digital Design Lab course will be held.
 
 - Next Lab sessions will be held by showing the assignments you have completed before.
 
