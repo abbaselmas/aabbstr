@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-09-25"
+date: "2022-10-16"
 featured: true
 draft: false
 
@@ -32,11 +32,11 @@ projects: []
 
 ## Announcements
 
-- On Monday, September 26, at 11.00 and 13.00, there will be a presentation of how the Digital Design Lab course will be held.
-
-- Next Lab sessions will be held by showing the assignments you have completed before.
+- Lab sessions will be held by showing the assignments you have completed before.
 
 - You can come at any time from 9 am to 4 pm on Mondays, show your homework and get your "plus".
+
+- There will be **no homework demonstration** this week.
 
 ### Equipments List
 
@@ -84,7 +84,6 @@ https://github.com/hneemann/Digital
 
 [Download](https://github.com/hneemann/Digital/releases)
 
-[English Documentation](https://github.com/hneemann/Digital/releases/download/v0.29/Doc_English.pdf)
 
 ### Resources
 

@@ -7,7 +7,7 @@ authors:
 tags:
 - Algorithms and Programming
 - Lab
-date: "2022-09-26"
+date: "2022-10-16"
 featured: true
 draft: false
 
@@ -32,11 +32,13 @@ projects: []
 
 ## Announcements
 
+- There will be **no lab session** this week (19.10.2022).
+
 ### Lab Sessions
 
 Wednesdays  
-13.15 - 15.00  
-15.15 - 17.00  
+First session 13.15  
+Second session 15.00  
 
 ### Books
 
