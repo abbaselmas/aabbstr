@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-10-23"
+date: "2022-10-28"
 featured: true
 draft: false
 
@@ -34,32 +34,7 @@ projects: []
 
 - Lab sessions will be held by showing the assignments you have completed before.
 
-- You can come at any time from 8.30 am to 13.00 pm on Monday, show your homework and get your "plus".
-
-
-### Equipments List
-
-| Malzeme                     | Ürün Kodu | Adet |
-|-----------------------------|-----------|------|
-| Nand Gate                   | 74LS00    | 4    |
-| Nor Gate                    | 74LS02    | 2    |
-| Not Gate                    | 74LS04    | 2    |
-| And Gate                    | 74LS08    | 2    |
-| Schmitt Trigger             | 74LS14    | 1    |
-| Or Gate                     | 74LS32    | 2    |
-| 7 Segment Display Driver    | 74LS47    | 1    |
-| JK Flip Flop                | 74LS76    | 3    |
-| XOR Gate                    | 74LS86    | 1    |
-| Shift Register              | 74LS164   | 2    |
-| Up Down Counter             | 74LS193   | 1    |
-| Potansiyometre 100 KΩ Mono  |           | 2    |
-| 5mm Led                     |           | 10   |
-| Bread Board                 |           | 1    |
-| 5V 1,6A Switch Mode Adaptör |           | 1    |
-| Kablo                       |           |      |
-| 330 Direnç                  |           | 10   |
-| 100 mF kondansatör          |           | 1    |
-| timsah kablo                |           | 2    |
+- Assignments' show session will be held between 15.00 and 19.00 on 3rd of November (Thursday).
 
 
 ### Lab Assignments
@@ -93,3 +68,27 @@ https://github.com/hneemann/Digital
 [Karnaugh Maps](/lab/cen265-digital-design/Ch7_v02.pdf)  
 [Combinational Logic Applications](/lab/cen265-digital-design/Ch8_v02.pdf)  
 
+
+### Equipments List
+
+| Malzeme                     | Ürün Kodu | Adet |
+|-----------------------------|-----------|------|
+| Nand Gate                   | 74LS00    | 4    |
+| Nor Gate                    | 74LS02    | 2    |
+| Not Gate                    | 74LS04    | 2    |
+| And Gate                    | 74LS08    | 2    |
+| Schmitt Trigger             | 74LS14    | 1    |
+| Or Gate                     | 74LS32    | 2    |
+| 7 Segment Display Driver    | 74LS47    | 1    |
+| JK Flip Flop                | 74LS76    | 3    |
+| XOR Gate                    | 74LS86    | 1    |
+| Shift Register              | 74LS164   | 2    |
+| Up Down Counter             | 74LS193   | 1    |
+| Potansiyometre 100 KΩ Mono  |           | 2    |
+| 5mm Led                     |           | 10   |
+| Bread Board                 |           | 1    |
+| 5V 1,6A Switch Mode Adaptör |           | 1    |
+| Kablo                       |           |      |
+| 330 Direnç                  |           | 10   |
+| 100 mF kondansatör          |           | 1    |
+| timsah kablo                |           | 2    |
