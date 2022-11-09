@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-10-28"
+date: "2022-11-09"
 featured: true
 draft: false
 
@@ -32,9 +32,9 @@ projects: []
 
 ## Announcements
 
-- Lab sessions will be held by showing the assignments you have completed before.
+- There wont be lab session on next week (14-18th November).
 
-- Assignments' show session will be held between 15.00 and 19.00 on 3rd of November (Thursday).
+- Assignments' show session will be held between 15.00 and 19.00 on 24th of November (Thursday).
 
 
 ### Lab Assignments
