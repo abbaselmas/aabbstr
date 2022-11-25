@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-11-09"
+date: "2022-11-25"
 featured: true
 draft: false
 
@@ -32,23 +32,21 @@ projects: []
 
 ## Announcements
 
-- There wont be lab session on next week (14-18th November).
-
-- Assignments' show session will be held between 15.00 and 19.00 on 24th of November (Thursday).
+- Lab session will be held between 15.00 and 19.00 on 1st of December (Thursday).
 
 
 ### Lab Assignments
 
 [Lab 1](/lab/cen265-digital-design/lab1.pdf) - [Presentation](/lab/cen265-digital-design/lab1.pptx)  
-[Lab 2 Exp1](/lab/cen265-digital-design/lab2.pdf)  
-[Lab 3 Exp2](/lab/cen265-digital-design/lab3.pdf)  
-[Lab 4 Exp3](/lab/cen265-digital-design/lab4.pdf)  
-[Lab 5 Exp4](/lab/cen265-digital-design/lab5.pdf)  
-[Lab 6 Exp5](/lab/cen265-digital-design/lab6.pdf)  
-[Lab 7 Exp6](/lab/cen265-digital-design/lab7.pdf)  
-[Lab 8 Exp7](/lab/cen265-digital-design/lab8.pdf)  
-[Lab 9 Exp8](/lab/cen265-digital-design/lab9.pdf) - [Clock](/lab/cen265-digital-design/Clock.pdf)  
-[Lab 10 Exp9](/lab/cen265-digital-design/lab10.pdf)  
+[Lab 2 - Exp1](/lab/cen265-digital-design/lab2.pdf)  
+[Lab 3 - Exp2](/lab/cen265-digital-design/lab3.pdf)  
+[Lab 4 - Exp3](/lab/cen265-digital-design/lab4.pdf)  
+[Lab 5 - Exp4](/lab/cen265-digital-design/lab5.pdf)  
+[Lab 6 - Exp5](/lab/cen265-digital-design/lab6.pdf)  
+[Lab 7 - Exp6](/lab/cen265-digital-design/lab7.pdf)  
+[Lab 8 - Exp7](/lab/cen265-digital-design/lab8.pdf)  
+[Lab 9 - Exp8](/lab/cen265-digital-design/lab9.pdf) - [Clock](/lab/cen265-digital-design/Clock.pdf)  
+[Lab 10 - Exp9](/lab/cen265-digital-design/lab10.pdf)  
 
 
 ### Simulation Program
