@@ -32,7 +32,7 @@ projects: []
 
 ## Announcements
 
-- Lab session will be held between 14.00 and 17.00 on 8th of December (Thursday).
+- Lab session will be held between 13.00 and 17.00 on 8th of December (Thursday).
 
 
 ### Lab Assignments
