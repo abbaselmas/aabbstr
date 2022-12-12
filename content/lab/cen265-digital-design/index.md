@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-12-04"
+date: "2022-12-"12"
 featured: true
 draft: false
 
@@ -32,7 +32,7 @@ projects: []
 
 ## Announcements
 
-- Lab session will be held between 13.00 and 17.00 on 8th of December (Thursday).
+- Lab session will be held between 15.00 and 19.00 on 15th of December (Thursday).
 
 
 ### Lab Assignments
