@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-12-"12"
+date: "2022-12-12"
 featured: true
 draft: false
 
