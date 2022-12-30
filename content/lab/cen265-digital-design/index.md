@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-12-12"
+date: "2022-12-30"
 featured: true
 draft: false
 
@@ -32,8 +32,7 @@ projects: []
 
 ## Announcements
 
-- Lab session will be held between 15.00 and 18.00 on 20, 21, 22, 23rd of December (whenever you can find me after lunch within these days).
-- Those who want to show their previous homeworks, can also show this week. There will be a lab session also on next week for those who want to show their absent previous homeworks.
+- Final exam will be only about our lab topics.
 
 
 ### Lab Assignments
