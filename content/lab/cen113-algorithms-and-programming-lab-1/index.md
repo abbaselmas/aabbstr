@@ -7,9 +7,9 @@ authors:
 tags:
 - Algorithms and Programming
 - Lab
-date: "2022-10-16"
+date: "2023-01-19"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,13 +32,7 @@ projects: []
 
 ## Announcements
 
-- There will be **no lab session** this week (19.10.2022).
-
 ### Lab Sessions
-
-Wednesdays  
-First session 13.15  
-Second session 15.00  
 
 ### Books
 
