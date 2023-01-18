@@ -7,9 +7,9 @@ authors:
 tags:
 - Data Structures
 - Lab
-date: "2022-02-14"
+date: "2023-01-19"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
