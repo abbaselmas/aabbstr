@@ -35,7 +35,7 @@ projects: []
 ### Lab Sessions
 
 ### Documents
-<!--
+
 |Lab|Instruction|Codes|
 |---|---|---|
 |Lab 1|[MOV, ADD, SUB](slides/lab1.pdf)|[1](codes/1-1.asm), [2](codes/1-2.asm), [3](codes/1-3.asm)|
@@ -50,11 +50,11 @@ projects: []
 |Lab 10|[PUSH, POP](slides/lab10.pdf)|[1](codes/10.asm)|
 |Lab 11|[CALL, PROC](slides/lab11.pdf)|[1](codes/11.asm)|
 |Lab 12|[Exercises 1](slides/exercises1.pdf),[Exercises 2](slides/exercises2.pdf)||
--->
+
 ### Online Course Records
-<!--
+
 Previous year online course records are available [**here**](https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/EpLrBTucRyNGvy-WrSg23J8B7jve5vCvtaI3nwo1fbPfYQ?e=XGBcan).
--->
+
 ### Download Section
 
 We will use emu8086 emulator to simulate our assembly code. Kindly download and install on your computer with the below download link. This program will be available in our lab computers but I suggest you to install and code on your own environment.
