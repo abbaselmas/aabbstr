@@ -29,7 +29,6 @@ image:
 projects: []
 
 ---
-
 ## Announcements
 
 ### Lab Assignments
