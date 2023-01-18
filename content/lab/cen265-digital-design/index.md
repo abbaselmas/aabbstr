@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2022-12-30"
+date: "2022-01-19"
 featured: true
 draft: false
 
@@ -31,9 +31,6 @@ projects: []
 ---
 
 ## Announcements
-
-- Final exam will be only about our lab topics.
-
 
 ### Lab Assignments
 
