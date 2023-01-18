@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2023-01-19"
+date: "2023-01-18"
 featured: true
 draft: false
 
@@ -29,8 +29,12 @@ image:
 projects: []
 
 ---
+
 ## Announcements
-- Announcements will be here.
+
+- Final exam will be only about our lab topics.
+
+
 ### Lab Assignments
 
 [Lab 1](/lab/cen265-digital-design/lab1.pdf) - [Presentation](/lab/cen265-digital-design/lab1.pptx)  

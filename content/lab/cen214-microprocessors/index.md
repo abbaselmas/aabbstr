@@ -7,9 +7,9 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2023-01-19"
+date: "2023-01-18"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,6 +36,7 @@ projects: []
 
 ### Documents
 
+<!--
 |Lab|Instruction|Codes|
 |---|---|---|
 |Lab 1|[MOV, ADD, SUB](slides/lab1.pdf)|[1](codes/1-1.asm), [2](codes/1-2.asm), [3](codes/1-3.asm)|
@@ -54,6 +55,7 @@ projects: []
 ### Online Course Records
 
 Previous year online course records are available [**here**](https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/EpLrBTucRyNGvy-WrSg23J8B7jve5vCvtaI3nwo1fbPfYQ?e=XGBcan).
+-->
 
 ### Download Section
 
