@@ -30,7 +30,7 @@ projects: []
 
 ---
 ## Announcements
-
+- Announcements will be here.
 ### Lab Assignments
 
 [Lab 1](/lab/cen265-digital-design/lab1.pdf) - [Presentation](/lab/cen265-digital-design/lab1.pptx)  
