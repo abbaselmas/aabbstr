@@ -36,22 +36,22 @@ projects: []
 
 |Lab|Instruction|Codes|
 |---|---|---|
-|Lab 1|[-MOV, ADD, SUB-](slides/lab1.pdf)|[-1-](codes/1-1.asm), [2-](codes/1-2.asm), [3-](codes/1-3.asm)|
-|Lab 2|[-Loop, INC, DEC-](slides/lab2.pdf)|[-1-](codes/2-1.asm), [2-](codes/2-2.asm)|
-|Lab 3|[-CMP, JMP, Jcc-](slides/lab3.pdf)|[-1-](codes/3-1.asm), [2-](codes/3-2.asm), [3-](codes/3-3.asm)|
-|Lab 4|[-ADC, SBB-](slides/lab4.pdf)|[-1-](codes/4-1.asm), [2-](codes/4-2.asm), [3-](codes/4-3.asm)|
-|Lab 5|[-STOS, LODS, MOVS, REP-](slides/lab5.pdf)|[-1-](codes/5-1.asm),[2-](codes/5-2.asm),[3-](codes/5-3.asm)|
-|Lab 6|[-MUL, DIV-](slides/lab6.pdf)|[-1-](codes/6-1.asm),[2-](codes/6-2.asm),[3-](codes/6-3.asm),[4-](codes/6-4.asm)|
-|Lab 7|[-INT, LEA-](slides/lab7.pdf)|[-1-](codes/7-1.asm),[2-](codes/7-2.asm),[3-](codes/7-3.asm)|
-|Lab 8|[-SHL, SAL, SHR, SAR-](slides/lab8.pdf)|[-1-](codes/8-1.asm),[2-](codes/8-2.asm),[3-](codes/8-3.asm),[4-](codes/8-4.asm)|
-|Lab 9|[-ROL, RCL, ROR, RCR-](slides/lab9.pdf)|[-1-](codes/9-1.asm),[2-](codes/9-2.asm),[3-](codes/9-3.asm)|
+|Lab 1|[-MOV, ADD, SUB-](slides/lab1.pdf)|[-1-](codes/1-1.asm), [-2-](codes/1-2.asm), [-3-](codes/1-3.asm)|
+|Lab 2|[-Loop, INC, DEC-](slides/lab2.pdf)|[-1-](codes/2-1.asm), [-2-](codes/2-2.asm)|
+|Lab 3|[-CMP, JMP, Jcc-](slides/lab3.pdf)|[-1-](codes/3-1.asm), [-2-](codes/3-2.asm), [-3-](codes/3-3.asm)|
+|Lab 4|[-ADC, SBB-](slides/lab4.pdf)|[-1-](codes/4-1.asm), [-2-](codes/4-2.asm), [-3-](codes/4-3.asm)|
+|Lab 5|[-STOS, LODS, MOVS, REP-](slides/lab5.pdf)|[-1-](codes/5-1.asm),[-2-](codes/5-2.asm),[-3-](codes/5-3.asm)|
+|Lab 6|[-MUL, DIV-](slides/lab6.pdf)|[-1-](codes/6-1.asm),[-2-](codes/6-2.asm),[-3-](codes/6-3.asm),[-4-](codes/6-4.asm)|
+|Lab 7|[-INT, LEA-](slides/lab7.pdf)|[-1-](codes/7-1.asm),[-2-](codes/7-2.asm),[-3-](codes/7-3.asm)|
+|Lab 8|[-SHL, SAL, SHR, SAR-](slides/lab8.pdf)|[-1-](codes/8-1.asm),[-2-](codes/8-2.asm),[-3-](codes/8-3.asm),[-4-](codes/8-4.asm)|
+|Lab 9|[-ROL, RCL, ROR, RCR-](slides/lab9.pdf)|[-1-](codes/9-1.asm),[-2-](codes/9-2.asm),[-3-](codes/9-3.asm)|
 |Lab 10|[-PUSH, POP-](slides/lab10.pdf)|[-1-](codes/10.asm)|
 |Lab 11|[-CALL, PROC-](slides/lab11.pdf)|[-1-](codes/11.asm)|
-|Lab 12|[-Exercises 1-](slides/exercises1.pdf),[Exercises 2-](slides/exercises2.pdf)||
+|Lab 12|[-Exercises 1-](slides/exercises1.pdf),[Exercises -2-](slides/exercises2.pdf)||
 
 ### Online Course Records
 
-Previous year online course records are available [**here**-](https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/EpLrBTucRyNGvy-WrSg23J8B7jve5vCvtaI3nwo1fbPfYQ?e=XGBcan).
+Previous year online course records are available [**here**](https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/EpLrBTucRyNGvy-WrSg23J8B7jve5vCvtaI3nwo1fbPfYQ?e=XGBcan).
 
 |Date|Morning|Evening|
 |---|---|---|
