@@ -32,6 +32,9 @@ projects: []
 
 ### Announcements
 
+Your project assignment is here.
+[Github Classroom](https://classroom.github.com/a/BW-XT6BM)
+
 ### Documents
 
 |Lab|Instruction|Codes|
