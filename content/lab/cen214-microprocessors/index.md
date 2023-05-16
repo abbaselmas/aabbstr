@@ -33,7 +33,8 @@ projects: []
 ### Announcements
 
 Your project assignment is here.
-[Github Classroom](https://classroom.github.com/a/BW-XT6BM)
+[Github Classroom](https://classroom.github.com/a/BW-XT6BM)  
+Due May 25, 2023, 12:00
 
 ### Documents
 
