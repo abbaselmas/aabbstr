@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2023-04-04"
+date: "2023-06-06"
 featured: true
 draft: false
 
@@ -32,9 +32,9 @@ projects: []
 
 ### Announcements
 
-Your project assignment is here.
-[Github Classroom](https://classroom.github.com/a/BW-XT6BM)  
-Due May 25, 2023, 12:00
+Your Final Project assignment is here.
+[Github Classroom](https://classroom.github.com/a/W2h3gMYX)  
+Due June 25, 2023, 23:53
 
 ### Documents
 
