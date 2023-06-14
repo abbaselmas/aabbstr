@@ -92,4 +92,6 @@ Previous year online course records are available [**here**](https://cukurova-my
 
 We will use emu8086 emulator to simulate our assembly code. Kindly download and install on your computer with the below download link. This program will be available in our lab computers but I suggest you to install and code on your own environment.
 
-[Download-](/lab/cen214-microprocessors/emu8086.rar)
+[Download](/lab/cen214-microprocessors/emu8086.rar)  
+
+[Emulator Documentation](/lab/cen214-microprocessors/documentation/)
