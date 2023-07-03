@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2023-06-06"
+date: "2023-07-03"
 featured: true
 draft: false
 
@@ -32,24 +32,9 @@ projects: []
 
 ### Announcements
 
-Your Final Project assignment is here.
-[Github Classroom](https://classroom.github.com/a/W2h3gMYX)  
-Due June 25, 2023, 23:53
-
-Project Work which will replace the Final Exam
-
-Write an assembly code which will create similar outputs described and shown below.
-
-1- Store your student number in memory adresses starting from 0100:2000h. Every number(char) will be stored in one byte address. (Hint DB)  
-![1](https://github.com/abbaselmas/CEN214-Microprocessors-Lab-Final/assets/28142617/302ca703-755b-4484-b67d-01397d70296e)
-
-2- Move your student number 0100:2000h memory array starting from to 0200:2000h memory address. (MOVSB)  
-![2](https://github.com/abbaselmas/CEN214-Microprocessors-Lab-Final/assets/28142617/6a9304e4-0819-4014-8a38-279d782ab720)
-
-3- Display your student number and decide education status either 'Morning' or 'Evening' education. Print to the screen. (Hint: CMP, INT)  
-![3](https://github.com/abbaselmas/CEN214-Microprocessors-Lab-Final/assets/28142617/6f822458-e7f0-4fc0-8440-721892a605b9)
-![4](https://github.com/abbaselmas/CEN214-Microprocessors-Lab-Final/assets/28142617/122e3d82-ebe3-44de-9fa3-1624301c8bd5)
-
+Your Final Makeup Project assignment is here.
+[Github Classroom](https://classroom.github.com/a/5jTe5GQG)  
+Due July 6, 2023, 23:31
 
 ### Documents
 
