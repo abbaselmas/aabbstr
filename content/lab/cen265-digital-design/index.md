@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2023-10-16"
+date: "2023-10-24"
 featured: true
 draft: false
 
@@ -44,7 +44,7 @@ projects: []
 
 - [Assignment 0](https://classroom.github.com/a/LCevW76i) - Due Oct 15, 2023, 22:00
 - [Assignment 1](https://classroom.github.com/a/EVEYIGYO) - Due Oct 23, 2023, 23:50
-- Assignment 2
+- [Assignment 2](https://classroom.github.com/a/Ivqth0fx) - Due Oct 31, 2023, 23:50
 - ..
 - .
 
