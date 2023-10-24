@@ -35,15 +35,17 @@ projects: []
 - There won't be any face-to-face lab sessions.
 - Every week or biweekly you are responsible to deliver homework(s) and/or projects.
 - There won't be midterm and final exam.
-- All of the grading will be from homeworks and projects.
+- All of the grading will be from assignments.
 - All the announcements will be maden from this webpage (https://aa.bbs.tr/lab/cen265-digital-design/)
 - You have to learn how to use git and github. Homework submissions will be trough github classroom.
-- Every assignment (experiment) will be published in Github Classroom Assignment section.
-
+- Students need to accept every assignment from below assignment list.
+- Students need to select (roaster) their student number from the list.
+- After deadline students wont be able to make changes in their repositories.
+ 
 ## Github Classroom Assignments
 
-- [Assignment 0](https://classroom.github.com/a/LCevW76i) - Due Oct 15, 2023, 22:00
-- [Assignment 1](https://classroom.github.com/a/EVEYIGYO) - Due Oct 23, 2023, 23:50
+- ~~[Assignment 0](https://classroom.github.com/a/LCevW76i) - Due Oct 15, 2023, 22:00~~
+- ~~[Assignment 1](https://classroom.github.com/a/EVEYIGYO) - Due Oct 23, 2023, 23:50~~
 - [Assignment 2](https://classroom.github.com/a/Ivqth0fx) - Due Oct 31, 2023, 23:50
 - ..
 - .
