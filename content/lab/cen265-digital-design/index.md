@@ -40,15 +40,22 @@ projects: []
 - You have to learn how to use git and github. Homework submissions will be trough github classroom.
 - Students need to accept every assignment from below assignment list.
 - Students need to select (roaster) their student number from the list.
-- After deadline students wont be able to make changes in their repositories.
- 
+- After deadline, students wont be able to make changes in their repositories.
+
+
 ## Github Classroom Assignments
 
 - ~~[Assignment 0](https://classroom.github.com/a/LCevW76i) - Due Oct 15, 2023, 22:00~~
 - ~~[Assignment 1](https://classroom.github.com/a/EVEYIGYO) - Due Oct 23, 2023, 23:50~~
-- [Assignment 2](https://classroom.github.com/a/Ivqth0fx) - Due Oct 31, 2023, 23:50
+- ~~[Assignment 2](https://classroom.github.com/a/Ivqth0fx) - Due Oct 31, 2023, 23:50~~
+- [Assignment 3](https://classroom.github.com/a/tutKeykQ) - Due Nov 8, 2023, 23:50
 - ..
 - .
+
+
+## Grades
+
+Grades will be available on [Google Sheets](https://docs.google.com/spreadsheets/d/1IUkjw5jvi1s6vPwi9qOLDLQN2NqHnKcfp7JEpv4rKoQ/edit?usp=sharing) soon.
 
 
 ### Old Lab Assignments
