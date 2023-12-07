@@ -50,7 +50,8 @@ projects: []
 - ~~Assignment 2 - Due Oct 31, 2023, 23:50~~
 - ~~Assignment 3 - Due Nov 08, 2023, 23:50~~ 
 - ~~Assignment 4 - Due Nov 17, 2023, 23:50~~
-- [Assignment 5](https://classroom.github.com/a/n6Sxdhk_) - Due Dec 06, 2023, 23:50
+- ~~Assignment 5 - Due Dec 06, 2023, 23:50~~
+- [Assignment 6](https://classroom.github.com/a/PHL8o4MK) - Due Dec 14, 2023, 23:50
 - ..
 - .
 
