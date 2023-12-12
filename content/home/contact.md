@@ -42,10 +42,10 @@ content:
     - 'Weekdays 08:30 to 09:30'
   appointment_url:
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: ''
+    # - icon: twitter
+    #   icon_pack: fab
+    #   name: DM Me
+    #   link: ''
     - icon: telegram
       icon_pack: fab
       name: Telegram
