@@ -45,7 +45,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/aabbstr'
+      link: ''
     - icon: telegram
       icon_pack: fab
       name: Telegram
