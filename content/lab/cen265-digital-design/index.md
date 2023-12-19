@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2023-10-24"
+date: "2023-12-19"
 featured: true
 draft: false
 
@@ -51,9 +51,10 @@ projects: []
 - ~~Assignment 3 - Due Nov 08, 2023, 23:50~~ 
 - ~~Assignment 4 - Due Nov 17, 2023, 23:50~~
 - ~~Assignment 5 - Due Dec 06, 2023, 23:50~~
-- [Assignment 6](https://classroom.github.com/a/PHL8o4MK) - Due Dec 14, 2023, 23:50
+- ~~Assignment 6 - Due Dec 14, 2023, 23:50~~
+- [Assignment 7](https://classroom.github.com/a/_A8TadLv) - Due Dec 25, 2023, 23:50
 - ..
-- .
+- ..
 
 ## Grades
 
