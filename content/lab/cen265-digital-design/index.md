@@ -54,7 +54,7 @@ projects: []
 - ~~Assignment 6 - Due Dec 14, 2023, 23:50~~
 - ~~Assignment 7 - Due Dec 25, 2023, 23:50~~
 - ~~Assignment 8 - Due Jan 03, 2024, 23:50~~
-- ~~Assignment 9 - Due Jan 10, 2024, 23:50~~
+- [Assignment 9](https://classroom.github.com/a/pwLNgyr-) - Due Jan 10, 2024, 23:50
 - [Assignment 10](https://classroom.github.com/a/2k6quIHr) - Due Jan 17, 2024, 23:50  
 
 ## Grades
