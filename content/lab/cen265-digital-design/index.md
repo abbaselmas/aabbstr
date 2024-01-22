@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2024-01-10"
+date: "2024-01-22"
 featured: true
 draft: false
 
@@ -54,12 +54,12 @@ projects: []
 - ~~Assignment 6 - Due Dec 14, 2023, 23:50~~
 - ~~Assignment 7 - Due Dec 25, 2023, 23:50~~
 - ~~Assignment 8 - Due Jan 03, 2024, 23:50~~
-- [Assignment 9](https://classroom.github.com/a/pwLNgyr-) - Due Jan 10, 2024, 23:50
-- [Assignment 10](https://classroom.github.com/a/2k6quIHr) - Due Jan 17, 2024, 23:50  
+- ~~Assignment 9 - Due Jan 10, 2024, 23:50~~
+- ~~Assignment 10 - Due Jan 17, 2024, 23:50~~ 
 
 ## Grades
 
-Grades will be available on [Google Sheets](https://docs.google.com/spreadsheets/d/1IUkjw5jvi1s6vPwi9qOLDLQN2NqHnKcfp7JEpv4rKoQ/edit?usp=sharing) soon.
+Grades are available on [here](https://docs.google.com/spreadsheets/d/1IUkjw5jvi1s6vPwi9qOLDLQN2NqHnKcfp7JEpv4rKoQ/edit?usp=sharing).
 
 
 ### Old Lab Assignments
