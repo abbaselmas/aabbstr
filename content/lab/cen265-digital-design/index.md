@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2024-01-22"
+date: "2024-01-25"
 featured: true
 draft: false
 
@@ -45,17 +45,7 @@ projects: []
 
 ## Github Classroom Assignments
 
-- ~~Assignment 0 - Due Oct 15, 2023, 22:00~~
-- ~~Assignment 1 - Due Oct 23, 2023, 23:50~~
-- ~~Assignment 2 - Due Oct 31, 2023, 23:50~~
-- ~~Assignment 3 - Due Nov 08, 2023, 23:50~~ 
-- ~~Assignment 4 - Due Nov 17, 2023, 23:50~~
-- ~~Assignment 5 - Due Dec 06, 2023, 23:50~~
-- ~~Assignment 6 - Due Dec 14, 2023, 23:50~~
-- ~~Assignment 7 - Due Dec 25, 2023, 23:50~~
-- ~~Assignment 8 - Due Jan 03, 2024, 23:50~~
-- ~~Assignment 9 - Due Jan 10, 2024, 23:50~~
-- ~~Assignment 10 - Due Jan 17, 2024, 23:50~~ 
+- [MakeUp Assignment](https://classroom.github.com/a/buJCVerv) - Due 08.02.2024 23:50
 
 ## Grades
 
