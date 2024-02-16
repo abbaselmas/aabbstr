@@ -7,7 +7,7 @@ authors:
 tags:
 - Digital Design
 - Lab
-date: "2024-01-25"
+date: "2024-02-16"
 featured: true
 draft: false
 
@@ -32,25 +32,10 @@ projects: []
 
 ## Announcements
 
-- There won't be any face-to-face lab sessions.
-- Every week or biweekly you are responsible to deliver homework(s) and/or projects.
-- There won't be midterm and final exam.
-- All of the grading will be from assignments.
-- All the announcements will be maden from this webpage (https://aa.bbs.tr/lab/cen265-digital-design/)
-- You have to learn how to use git and github. Homework submissions will be trough github classroom.
-- Students need to accept every assignment from below assignment list.
-- Students need to select (roaster) their student number from the list.
-- After deadline, students wont be able to make changes in their repositories.
-
-
-## Github Classroom Assignments
-
-- [MakeUp Assignment](https://classroom.github.com/a/buJCVerv) - Due 08.02.2024 23:50
 
 ## Grades
 
-Grades are available on [here](https://docs.google.com/spreadsheets/d/1IUkjw5jvi1s6vPwi9qOLDLQN2NqHnKcfp7JEpv4rKoQ/edit?usp=sharing).
-
+Grades are available on ~~here~~.
 
 ### Old Lab Assignments
 

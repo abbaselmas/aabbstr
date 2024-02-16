@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2023-07-03"
+date: "2024-02-16"
 featured: true
 draft: false
 
@@ -32,9 +32,19 @@ projects: []
 
 ### Announcements
 
-Your Final Makeup Project assignment is here.
-[Github Classroom](https://classroom.github.com/a/5jTe5GQG)  
-Due July 6, 2023, 23:31
+ - Lab Sessions will be held on every **Friday**.
+ - The lab sessions will NOT be online.
+ - The lab sessions will be held in the **Computer Engineering Yazılım 2 Lab**.
+
+### Lab Sessions
+
+|Group|Time|
+|---|---|
+|1.Öğretim A|13.00|
+|1.Öğretim B|14.00|
+|2.Öğretim A|15.00|
+|2.Öğretim B|16.00|
+
 
 ### Documents
 
