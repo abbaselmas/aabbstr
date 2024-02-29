@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2024-02-16"
+date: "2024-02-29"
 featured: true
 draft: false
 
@@ -35,15 +35,15 @@ projects: []
  - Lab Sessions will be held on every **Friday**.
  - The lab sessions will NOT be online.
  - The lab sessions will be held in the **Computer Engineering Yazılım 2 Lab**.
+ - You can join the lab sessions in any group you want.
 
 ### Lab Sessions
 
 |Group|Time|
 |---|---|
-|1.Öğretim A|13.00|
-|1.Öğretim B|14.00|
-|2.Öğretim A|15.00|
-|2.Öğretim B|16.00|
+|Session 1|12.30|
+|Session 2|13.30|
+|Session 3|14.30|
 
 
 ### Documents
