@@ -1,5 +1,5 @@
 ---
-title: "An example journal article",
+title: "An example journal article"
 draft: true
 authors:
 - admin
