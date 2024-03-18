@@ -64,24 +64,11 @@ projects: []
 |Lab 12|[-Exercises 1-](slides/exercises1.pdf),[Exercises -2-](slides/exercises2.pdf)||
 
 ### Online Course Records
+1.Öğretim  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IB6oQSbm4pLJc4YQ&amp;list=PLJL0P2qimf5KxeAgZk3ePEFWxSrDlXEe7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Previous year online course records are available [**here**](https://cukurova-my.sharepoint.com/:f:/g/personal/2019913002_ogr_cu_edu_tr/EpLrBTucRyNGvy-WrSg23J8B7jve5vCvtaI3nwo1fbPfYQ?e=XGBcan).
-
-|Date|Morning|Evening|
-|---|---|---|
-|25.02.2021|[-1-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/ES3shCAklL9JjYjPZVps1mkBlegLj7DoZxto4fvxy1ySeA?e=MPuKy5)|[-1-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EQYq1v0jDGRNv5w5L72iPGQBs6n9tmHQ4pYygBGwa3csjw?e=hrEOtG)|
-|04.03.2021|[-2-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EVPjUAF0CptPtlxgUZgBm9MBxiK3en5FlEkn2m7KaxzSIA?e=geeGGq)|[-2-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/Eda77Ee20qVGlYKGMtzAKGgB5dVn08rS4LxgAgQmbz23_Q?e=CnMJxf)|
-|11.03.2021|[-3-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EXG0QxAwQilGmouXpZjnr0wBSus5wiy59NbJqXtJTsvWsg?e=WgcSck)|[-3-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EamCrgytr_xIsOVA3_CFlVEBpiHSbsh2xHSQzn1dqEkphQ?e=aytZyP)|
-|18.03.2021|[-4-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EVoNQprtVUVCrKNAqu0H3JEBTZ8sxvn2EzY4ETtXmK5wzA?e=drAqyj)|[-4-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EYFqhYQIzf5Mva1Bn4q9cHwB278gyW5BA-PLCk9bX0-nVw?e=kFn1Pu)|
-|25.03.2021|[-5-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/ERjdLPyUS09FtwEG-13QeQoBBg5-DNjKb-OZn_J43JZxCg?e=YqrQVX)|[-5-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EZopf24BhZ9GlebDAG5JOIkBMo6Stp5R0Aio-BzfWr5eWw?e=W0CQTg)|
-|01.04.2021|[-6-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EeJ-IyPPwWNHr_P6r7GESpkBtttHilCZEjq2ID_3r_BD-w?e=Md1vVI)|[-6-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EeGT3joNYq1MkhKG9Pzv7DgBRlFP_9QZPPnavLafT478ig?e=mF9P3H)|
-|08.04.2021|[-7-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/ERSCKJenAHlKvYf1KisJ_1cBkGz-uhpFcGswwOdaAKs18g?e=qJp6Mj)|[-7-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/Ea_BWGPdyuBLuCBcW8X94OsBrMXYZTsY69RjpGBm-b6PrQ?e=OLdRlk)|
-|22.04.2021|[-8-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EXCVCL2v3vhCvdElpeki0RsBynd_fH11q53S_EJZqpk8KQ?e=VIgBTf)|[-8-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EeeqRVxAgdxBoup_ilvOGqsBNiZmHvZw1jAjhpwR3gCyVA?e=dbIxKa)|
-|29.04.2021|[-9-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EW3xccy-mf5Iugq8MVQcIcMB67akbJVqwCRHZBBFE1qRHw?e=LXhmmf)|[-9-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EWoaZDSFQJRFrc17yGdVCeEB1deDHVoLvlpUrml_owkGeA?e=2Xn5aa)|
-|06.05.2021|[-10-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EZOPO31aa49OtH2Nj86pi7sBZUOFIxC2mzokEfvdVbGNIg?e=tLfPGe)|[-10-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EQm9hjxP5r9GimEkwYSXH8gBPju2vlTx-JNGI7g6osG9BA?e=sd4yuE)|
-|20.05.2021|[-11-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/ES05G-0nlTdLgbf0XyI1G9gB0BXU9UPVhCKvywl5knVu5g?e=IWfQGY)|[-11-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EcgECnzEZVNHoT6qga4oWYQB_sdXussjFt0-NbDQCDT7oA?e=t9HeH0)|
-|27.05.2021|[-12-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EWthz2oN9sdMqvU-iFnC9N4BXei4pLbZR0WWEQMTN8AhQA?e=TSDNk2)|[-12-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EakcgPldogxDpbgvHm1f8i4BgM5OrcPb3r5peRI8NHw6Nw?e=fNjDhA)|
-|03.06.2021|[-13-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EWnOfkR1keJMnY2CFdpZ6x0BUUJMwReX2Zh8zWhyb6OthA?e=lxyXzx)|[-13-](https://cukurova-my.sharepoint.com/:v:/g/personal/2019913002_ogr_cu_edu_tr/EfpaAGVZzjhGgseIFCwL9K4BXRFVqUVMeWA20W08bSpVVw?e=E6cfs7)|
+2. Öğretim  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AM0hp1vb-d_S3czH&amp;list=PLJL0P2qimf5KEco8iVqKuTO3gvF1FKWRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Download Section
 
