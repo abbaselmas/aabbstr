@@ -52,7 +52,7 @@ projects: []
 |---|---|---|
 |Lab 1|[-MOV, ADD, SUB-](slides/lab1.pdf)|[-1-](codes/1-1.asm), [-2-](codes/1-2.asm), [-3-](codes/1-3.asm)|
 |Lab 2|[-Loop, INC, DEC-](slides/lab2.pdf)|[-1-](codes/2-1.asm), [-2-](codes/2-2.asm)|
-|Lab 3|[-CMP, JMP, Jcc-](slides/lab3.pdf)|[-1-](codes/3-1.asm), [-2-](codes/3-2.asm), [-3-](codes/3-3.asm)|
+|Lab 3|[-CMP, JMP, Jcc-](slides/lab3.pdf)|[-1-](codes/3-1.asm), [-2-](codes/3-2.asm)|
 |Lab 4|[-ADC, SBB-](slides/lab4.pdf)|[-1-](codes/4-1.asm), [-2-](codes/4-2.asm), [-3-](codes/4-3.asm)|
 |Lab 5|[-STOS, LODS, MOVS, REP-](slides/lab5.pdf)|[-1-](codes/5-1.asm),[-2-](codes/5-2.asm),[-3-](codes/5-3.asm)|
 |Lab 6|[-MUL, DIV-](slides/lab6.pdf)|[-1-](codes/6-1.asm),[-2-](codes/6-2.asm),[-3-](codes/6-3.asm),[-4-](codes/6-4.asm)|
@@ -65,10 +65,10 @@ projects: []
 
 ### Online Course Records
 1.Öğretim  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IB6oQSbm4pLJc4YQ&amp;list=PLJL0P2qimf5KxeAgZk3ePEFWxSrDlXEe7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?si=IB6oQSbm4pLJc4YQ&amp;list=PLJL0P2qimf5KxeAgZk3ePEFWxSrDlXEe7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2. Öğretim  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AM0hp1vb-d_S3czH&amp;list=PLJL0P2qimf5KEco8iVqKuTO3gvF1FKWRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?si=AM0hp1vb-d_S3czH&amp;list=PLJL0P2qimf5KEco8iVqKuTO3gvF1FKWRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Download Section
 
