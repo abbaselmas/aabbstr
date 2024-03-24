@@ -39,7 +39,7 @@ links:
   icon: file-pdf
 
 - name: Slides
-  url: /publication/msc-thesis/Msc-Thesis-Slides.pptx
+  url: https://docs.google.com/presentation/d/13H_H767XdgioNaca3AwMmrLcIG4BTpXG/edit?usp=sharing&ouid=105492841391075315895&rtpof=true&sd=true
   icon_pack: fas
   icon: file-powerpoint
 
