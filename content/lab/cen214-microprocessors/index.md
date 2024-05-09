@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2024-05-02"
+date: "2024-05-09"
 featured: true
 draft: false
 
@@ -42,8 +42,7 @@ projects: []
 |Group|Time|
 |---|---|
 |Session 1|14.00|
-|Session 2|15.00|
-|Session 3|16.00|
+|Session 2|15.15|
 
 
 ### Documents
