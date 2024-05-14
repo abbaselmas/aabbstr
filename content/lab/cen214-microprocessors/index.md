@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2024-05-09"
+date: "2024-05-14"
 featured: true
 draft: false
 
@@ -32,10 +32,7 @@ projects: []
 
 ### Announcements
 
- - Lab Sessions will be held on every **Friday**.
- - The lab sessions will NOT be online.
- - The lab sessions will be held in the **Computer Engineering Yazılım 2 Lab**.
- - You can join the lab sessions in any group you want.
+ - Midterm Grades are announced. You can check your grades from the [link](https://docs.google.com/spreadsheets/d/14Nw7hOJw_iOyMHm_KPG5VIItgo4ySBENRHvDToNiSQw/edit?usp=sharing).
 
 ### Lab Sessions
 
