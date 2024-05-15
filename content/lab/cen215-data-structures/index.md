@@ -36,7 +36,7 @@ projects: []
 
 ### Books
 
-[Data Structures Using C, 2nd edition](/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf)  
+Data Structures Using C, 2nd edition  
 [C Notes for Professionals](https://goalkicker.com/CBook/)  
 [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)  
 [Everything you need to know about pointers in C](https://boredzo.org/pointers/)  
