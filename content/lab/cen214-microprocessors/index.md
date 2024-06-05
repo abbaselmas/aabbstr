@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2024-05-30"
+date: "2024-06-05"
 featured: true
 draft: false
 
@@ -32,15 +32,25 @@ projects: []
 
 ### Announcements
 
- - Midterm Grades are announced. You can check your grades from the [link](https://docs.google.com/spreadsheets/d/14Nw7hOJw_iOyMHm_KPG5VIItgo4ySBENRHvDToNiSQw/edit?usp=sharing).
-
-### Lab Sessions
-
-|Group|Time|
-|---|---|
-|Session 1|14.00|
+ - You can check your grades from the [link](https://docs.google.com/spreadsheets/d/14Nw7hOJw_iOyMHm_KPG5VIItgo4ySBENRHvDToNiSQw/edit?usp=sharing).
 
 ### Documents
+
+Extra Documents
+[Foyler](slides/foyler.pdf)  
+
+|Quiz|A|B|C|T|
+|---|---|---|---|---|
+|Quiz 1|[A](quizes/Quiz_01A.pdf)|[B](quizes/Quiz_01B.pdf)|[C](quizes/Quiz_01C.pdf)|[q1](quizes/quiz01.pdf)  |
+|Quiz 2|[A](quizes/Quiz_02A.pdf)|[B](quizes/Quiz_02B.pdf)|[C](quizes/Quiz_02C.pdf)|[T](quizes/Quiz_02T.pdf) - [q2](quizes/quiz02.pdf)  |
+|Quiz 3|[A](quizes/Quiz_03A.pdf)|[B](quizes/Quiz_03B.pdf)|[C](quizes/Quiz_03C.pdf)|[q3](quizes/quiz03.pdf)  |
+|Quiz 4|[A](quizes/Quiz_04A.pdf)|[B](quizes/Quiz_04B.pdf)|[C](quizes/Quiz_04C.pdf)|[q4a](quizes/quiz04a.pdf) - [q4b](quizes/quiz04b.pdf)|
+|Quiz 5|[A](quizes/Quiz_05A.pdf)|[B](quizes/Quiz_05B.pdf)|[C](quizes/Quiz_05C.pdf)|[T](quizes/Quiz_05T.pdf) - [q5a](quizes/quiz05a.pdf) - [q5b](quizes/quiz05b.pdf)|
+|Quiz 6|[A](quizes/Quiz_06A.pdf)|[B](quizes/Quiz_06B.pdf)|[C](quizes/Quiz_06C.pdf)|[T](quizes/Quiz_06T.pdf) - [q6a](quizes/quiz06a.pdf) - [q6b](quizes/quiz06b.pdf)|
+|Quiz 7|[A](quizes/Quiz_07A.pdf)|[B](quizes/Quiz_07B.pdf)|[C](quizes/Quiz_07C.pdf)|[T](quizes/Quiz_07T.pdf) - [q7a](quizes/quiz07a.pdf) - [q7b](quizes/quiz07b.pdf)|
+|Quiz 8|[A](quizes/Quiz_08A.pdf)|[B](quizes/Quiz_08B.pdf)|[C](quizes/Quiz_08C.pdf)|[q8a](quizes/quiz08a.pdf) - [q8b](quizes/quiz08b.pdf)|
+|Quiz 9|[A](quizes/Quiz_09A.pdf)|[B](quizes/Quiz_09B.pdf)|[C](quizes/Quiz_09C.pdf)|[T](quizes/Quiz_09T.pdf) - [q9a](quizes/quiz09a.pdf) - [q9b](quizes/quiz09b.pdf)|
+|Quiz10|[A](quizes/Quiz_10A.pdf)|[B](quizes/Quiz_10B.pdf)|[C](quizes/Quiz_10C.pdf)|[T](quizes/Quiz_10T.pdf) - [q10a](quizes/quiz10a.pdf) - [q10b](quizes/quiz10b.pdf)|
 
 |Lab|Instruction|Codes|
 |---|---|---|
@@ -69,3 +79,5 @@ projects: []
 We will use emu8086 emulator to simulate our assembly code. Kindly download and install on your computer with the below download link. This program will be available in our lab computers but I suggest you to install and code on your own environment.
 
 [Download](/lab/cen214-microprocessors/emu8086.rar)  
+[8086 Manual](8086_manual.pdf)  
+[Adressing Mode](slides/adressing_modes.pdf)  
