@@ -32,11 +32,6 @@ projects: []
 
 ## Announcements
 
-
-## Grades
-
-Grades are available on ~~here~~.
-
 ### Old Lab Assignments
 
 - Below resources are previous years lab sessions experiments.

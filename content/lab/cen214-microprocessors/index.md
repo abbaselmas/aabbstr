@@ -7,7 +7,7 @@ authors:
 tags:
 - Microprocessors
 - Lab
-date: "2024-06-05"
+date: "2024-07-10"
 featured: true
 draft: false
 
@@ -32,8 +32,6 @@ projects: []
 
 ### Announcements
 
- - You can check your grades from the [link](https://docs.google.com/spreadsheets/d/14Nw7hOJw_iOyMHm_KPG5VIItgo4ySBENRHvDToNiSQw/edit?usp=sharing).
-
 ### Documents
 
 Extra Documents
@@ -50,7 +48,7 @@ Extra Documents
 |Quiz 7|[A](quizes/Quiz_07A.pdf)|[B](quizes/Quiz_07B.pdf)|[C](quizes/Quiz_07C.pdf)|[T](quizes/Quiz_07T.pdf) - [q7a](quizes/quiz07a.pdf) - [q7b](quizes/quiz07b.pdf)|
 |Quiz 8|[A](quizes/Quiz_08A.pdf)|[B](quizes/Quiz_08B.pdf)|[C](quizes/Quiz_08C.pdf)|[q8a](quizes/quiz08a.pdf) - [q8b](quizes/quiz08b.pdf)|
 |Quiz 9|[A](quizes/Quiz_09A.pdf)|[B](quizes/Quiz_09B.pdf)|[C](quizes/Quiz_09C.pdf)|[T](quizes/Quiz_09T.pdf) - [q9a](quizes/quiz09a.pdf) - [q9b](quizes/quiz09b.pdf)|
-|Quiz10|[A](quizes/Quiz_10A.pdf)|[B](quizes/Quiz_10B.pdf)|[C](quizes/Quiz_10C.pdf)|[T](quizes/Quiz_10T.pdf) - [q10a](quizes/quiz10a.pdf) - [q10b](quizes/quiz10b.pdf)|
+|Quiz10| - | - | - | - [q10a](quizes/quiz10a.pdf) - [q10b](quizes/quiz10b.pdf)|
 
 |Lab|Instruction|Codes|
 |---|---|---|
