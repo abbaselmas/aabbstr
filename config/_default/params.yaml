@@ -3,11 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Adsense
+# Appearance
 params:
   google_adsense: ca-pub-9028933339708541
-
-# Appearance
 
 appearance:
   theme_day: minimal
