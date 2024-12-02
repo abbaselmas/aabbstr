@@ -1,0 +1,6 @@
+[submodule "themes/github.com/HugoBlox/hugo-blox-builder"]
+	path = themes/github.com/HugoBlox/hugo-blox-builder
+	url = https://github.com/HugoBlox/hugo-blox-builder
+[submodule "themes/github.com/hugomods/google-adsense"]
+	path = themes/github.com/hugomods/google-adsense
+	url = https://github.com/hugomods/google-adsense
