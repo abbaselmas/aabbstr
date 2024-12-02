@@ -49,7 +49,7 @@ content:
     - icon: telegram
       icon_pack: fab
       name: Telegram
-      link: 'https://telegram.me/@abbaselmas'
+      link: 'https://t.me/abbaselmas'
 
 design:
   columns: '2'
